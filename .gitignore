@@ -1,0 +1,8 @@
+/sxrumble.egg-info/
+
+/.cache/
+/.coverage
+
+__pycache__/
+
+/sxrumble-*.yaml

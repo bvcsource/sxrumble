@@ -1,0 +1,9 @@
+virtualenvwrapper
+flake8<3
+flake8-commas
+flake8-import-order
+mypy-lang
+ipython
+ipdb
+pytest
+pytest-cov
